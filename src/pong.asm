@@ -1,4 +1,4 @@
-
+	; Display with tab width of 4 spaces
 	; The PONG GAME
 	; https://github.com/neilsf/pong
 	; feketecsaba@gmail.com
